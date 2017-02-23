@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "ejemplo1";
+            label1.Text = "ejemplo1 ej3 ssss";
         }
     }
 }
